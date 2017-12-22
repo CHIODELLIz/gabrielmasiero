@@ -501,7 +501,7 @@ header{
 	color:#474d5d;
 }
 .technical h2{
-	color:#2196F3;
+	color:#3F51B5;
 }
 
 .technical .skillsArea{
@@ -585,7 +585,7 @@ header{
 }
 
 .exprience h2{
-	color:#2196F3;
+	color:#3F51B5;
 }
 .exprience p{
 	color:#84868d;
@@ -662,7 +662,7 @@ header{
 }
 
 .education h2{
-	color:#2196F3;
+	color:#3F51B5;
 }
 .education p{
 	color:#84868d;
@@ -688,6 +688,10 @@ header{
 
 .education .workDetails .rightArea{
 	border-left-color:#e5e4e4;
+}
+
+.sobre {
+	font-size:14px;
 }
 
 
@@ -744,16 +748,16 @@ header{
 }
 
 .portfolioFilter ul li a:hover{
-	border:solid 1px #15596e;
-	color:#15596e;
+	border:solid 1px #3F51B5;
+	color:#3F51B5;
 	
 	transition-duration: 0.2s;
 	-webkit-transition-duration: 0.2s;
 }
 
 .portfolioFilter ul li a.current{
-	background:#15596e;
-	border:solid 1px #15596e;
+	background:#3F51B5;
+	border:solid 1px #3F51B5;
 	color:#fff;
 }
 
@@ -958,7 +962,7 @@ ul.portfolioContainer li:hover span.hoverBox .linKed{
 }
 
 .contact h2{
-	color:#2196F3;
+	color:#3F51B5;
 }
 .contact p{
 	color:#84868d;
@@ -1115,7 +1119,7 @@ ul.portfolioContainer li:hover span.hoverBox .linKed{
     border-radius: 50%;
 }
 .footer ul li:hover{
-	background:#0a9f9f ;
+	background:#3F51B5 ;
 }
 .footer ul li:hover	a{
 	color:#fff;
