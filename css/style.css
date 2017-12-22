@@ -600,6 +600,30 @@ header{
 	font-weight:700;
 }
 
+.avaliation{
+	background:#fff;
+}
+.avaliation .container{
+	padding-top:85px ;
+	padding-bottom:90px ;
+}
+
+.avaliation h2{
+	color:#3F51B5;
+}
+.avaliation p{
+	color:#84868d;
+	/*font-size:13px;*/
+	line-height:18px;
+}
+.avaliation .heading p{
+	padding-bottom:41px;
+}
+
+.exprience h4{
+	font-weight:700;
+}
+
 .workDetails .rightArea{
 	border-left: solid 1px #eaeaea;
 	padding-bottom:47px;
